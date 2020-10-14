@@ -4,7 +4,7 @@ This includes the full train, dev, and test sets that were used in the original 
 
 Please download and decompress the table with:
 
-	wget 
+	wget https://github.com/bhattlab/SupplementaryInformation/raw/master/SmORFinder/datasets.tar.gz
 	tar -zxvf datasets.tar.gz
 
 The file dataset_FINAL.tsv is a tab-delimited file that includes all examples split into a train, dev, and a test set.
